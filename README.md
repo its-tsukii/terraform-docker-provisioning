@@ -99,3 +99,13 @@ git push
 
 👨‍💻 Author
 Aayush Kukade
+
+---
+
+## 📚 More From My DevOps Series
+
+This project is part of my DevOps learning journey.  
+Read the full series here:
+
+🔗 [DevOps Master Blog – My Journey](https://medium.com/@sroy10012001/my-devops-internship-journey-with-elevate-labs-30-days-of-learning-d7252e409a20)
+
