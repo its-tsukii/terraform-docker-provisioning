@@ -1,7 +1,7 @@
 # Terraform Docker Provisioning 🚀
 
 This project demonstrates how to use **Terraform** to provision a local **Docker container** running NGINX.  
-It is completed as **Task 3** of the **Elevate Labs DevOps Internship**.
+
 
 ---
 
