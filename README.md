@@ -99,6 +99,7 @@ git push
 
 👨‍💻 Author
 Aayush Kukade
+https://medium.com/@sroy10012001
 
 ---
 
