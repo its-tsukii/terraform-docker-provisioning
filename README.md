@@ -100,6 +100,8 @@ git push
 👨‍💻 Author
 Aayush Kukade
 https://medium.com/@sroy10012001
+LinkedIn : linkedin.com/in/aayushkukade/
+<br> This Repo Blog -- https://medium.com/@sroy10012001/infrastructure-as-code-with-terraform-provisioning-docker-containers-8e98611f0f4c
 
 ---
 
